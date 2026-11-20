@@ -78,3 +78,9 @@ Prescribed university practicals required to be written and demonstrated from me
    php uni_01_reverse_digits.php
    php q01_palindrome.php
    ```
+
+---
+
+## Part 3: Viva Voce Master Cheat Sheet (39 Questions)
+A complete question-by-question answer guide covering all 39 viva questions from the syllabus:
+👉 [**Open VIVA_QUESTIONS_AND_ANSWERS.md**](VIVA_QUESTIONS_AND_ANSWERS.md)
